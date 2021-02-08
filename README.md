@@ -1,5 +1,7 @@
 # HoloLight
 
+Simple rendering demo on Microsoft HoloLens
+
 ## Requirements
 추가 예정
 
@@ -20,12 +22,15 @@
 ## Useful links
 - [The Mixed Reality Academy](https://docs.microsoft.com/en-us/windows/mixed-reality/academy)
 
-## Videos
+## Video
+[![Video](https://img.youtube.com/vi/zNyDitVZTpw/0.jpg)](https://youtu.be/zNyDitVZTpw)
+
+## Other tests' videos
 #### HoloLens Unity test
-[![Video](https://img.youtube.com/vi/SUtumG1LTB8/0.jpg)](https://youtu.be/SUtumG1LTB8)
+[![Video1](https://img.youtube.com/vi/SUtumG1LTB8/0.jpg)](https://youtu.be/SUtumG1LTB8)
 
 #### HoloLens lighting test
-[![Video](https://img.youtube.com/vi/3mFYUi7LOzc/0.jpg)](https://youtu.be/3mFYUi7LOzc)
+[![Video2](https://img.youtube.com/vi/3mFYUi7LOzc/0.jpg)](https://youtu.be/3mFYUi7LOzc)
 
 #### HoloLens image-to-mesh color mapping test
-[![Video](https://img.youtube.com/vi/CiWxebD0bpI/0.jpg)](https://youtu.be/CiWxebD0bpI)
+[![Video3](https://img.youtube.com/vi/CiWxebD0bpI/0.jpg)](https://youtu.be/CiWxebD0bpI)
